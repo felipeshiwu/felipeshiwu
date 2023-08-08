@@ -15,7 +15,7 @@ Sculpting payment processing world wonders with a touch of IT magic.
 ## Star Attraction
 
 🔥 PHP  
-🔥 MySQL  
+🔥 MySQL   
 🔥 Elixir
 
 ## Get in Touch
