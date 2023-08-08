@@ -1,27 +1,27 @@
-# Mastering the Enigma of Systems! 🐘🧪
+# Unveiling the Art of Systems Enchantment! 🐘🧪
 
-Sculpting payment processing world wonders with a touch of IT magic.
+Crafting seamless payment processing solutions with a sprinkle of IT sorcery.
 
-## In a Nutshell
+## A Glimpse of Me
 
-👨‍💻 Amazing Computer Scientist  
-🌟 Crafting the extraordinary in PHP and Elixir  
-🐬 Love MySQL's familiarity, but its quirks sometimes drive me up the wall
+👨‍💻 Curious Computer Scientist  
+🌟 Weaving code wonders in PHP and Elixir  
+🐬 Loving MySQL's embrace, despite its occasional mischiefs
 
-## Current Journey
+## Present Adventure
 
-🚀 Unveiling the secrets of the EBANX payment platform system.
+🚀 Journeying through the labyrinth of the EBANX payment platform system.
 
-## Star Attraction
+## Stellar Focus
 
 🔥 PHP  
 🔥 MySQL   
 🔥 Elixir
 
-## Get in Touch
+## Reach Out
 
 🌐 [LinkedIn](https://www.linkedin.com/in/felipeshiwu/) | [VSCO](vsco.co/mydearcoffeeshop)
 
-Let's conjure Dev Platform excellence together! 🖋️🎩
+Together, let's conjure excellence in the realm of Dev Platforms! 🖋️🎩
 
 ![IMG_3956](https://github.com/felipeshiwu/felipeshiwu/assets/20672779/0a6808e7-c945-45e1-bf74-a6e9694afcb1)
