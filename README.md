@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mastering the Enigma of Systems! 🔍🐘
 
-<!--
-**felipeshiwu/felipeshiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sculpting PHP wonders with a touch of magic.
 
-Here are some ideas to get you started:
+## In a Nutshell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 PHP Illusionist  
+🌟 Crafting the extraordinary in PHP
+
+## Current Journey
+
+🚀 Unveiling the secrets of the EBANX payment platform system.
+
+## Star Attraction
+
+🔥 MySQL
+
+## Get in Touch
+
+🌐 [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/felipeshiwu/)) | [VSCO](vsco.co/mydearcoffeeshop)
+
+Let's conjure Dev Platform excellence together! 🖋️🎩
