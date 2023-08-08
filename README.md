@@ -1,11 +1,12 @@
-# Mastering the Enigma of Systems! 🔍🐘
+# Mastering the Enigma of Systems! 🐘🧪
 
-Sculpting PHP wonders with a touch of magic.
+Sculpting payment processing world wonders with a touch of IT magic.
 
 ## In a Nutshell
 
-👨‍💻 PHP Illusionist  
-🌟 Crafting the extraordinary in PHP
+👨‍💻 Amazing Computer Scientist  
+🌟 Crafting the extraordinary in PHP and Elixir
+🐬 Love MySQL's familiarity, but its quirks sometimes drive me up the wall
 
 ## Current Journey
 
@@ -13,10 +14,12 @@ Sculpting PHP wonders with a touch of magic.
 
 ## Star Attraction
 
-🔥 MySQL
+🔥 PHP
+🔥 MySQL  
+🔥 Elixir
 
 ## Get in Touch
 
-🌐 [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/felipeshiwu/)) | [VSCO](vsco.co/mydearcoffeeshop)
+🌐 [LinkedIn](https://www.linkedin.com/in/felipeshiwu/) | [VSCO](vsco.co/mydearcoffeeshop)
 
 Let's conjure Dev Platform excellence together! 🖋️🎩
