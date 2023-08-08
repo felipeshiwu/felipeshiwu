@@ -10,13 +10,17 @@ Crafting seamless payment processing solutions with a sprinkle of IT sorcery.
 
 ## Present Adventure
 
-🚀 Journeying through the labyrinth of the EBANX payment platform system.
+🚀 Journeying through the labyrinth of the EBANX payment platform system
 
 ## Stellar Focus
 
 🔥 PHP  
 🔥 MySQL   
 🔥 Elixir
+
+## My Mission
+
+Harmonizing with the timeless wisdom of appropriateness in timing, context, and people. Meticulously crafted software solutions guided by principles of technical excellence, unwavering collaboration, and a lifelong commitment to learning. Striving to shape melodic equilibrium between humankind and automatons meticulously.
 
 ## Reach Out
 
