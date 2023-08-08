@@ -5,7 +5,7 @@ Sculpting payment processing world wonders with a touch of IT magic.
 ## In a Nutshell
 
 👨‍💻 Amazing Computer Scientist  
-🌟 Crafting the extraordinary in PHP and Elixir
+🌟 Crafting the extraordinary in PHP and Elixir  
 🐬 Love MySQL's familiarity, but its quirks sometimes drive me up the wall
 
 ## Current Journey
