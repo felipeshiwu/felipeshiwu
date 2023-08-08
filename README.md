@@ -23,3 +23,5 @@ Sculpting payment processing world wonders with a touch of IT magic.
 🌐 [LinkedIn](https://www.linkedin.com/in/felipeshiwu/) | [VSCO](vsco.co/mydearcoffeeshop)
 
 Let's conjure Dev Platform excellence together! 🖋️🎩
+
+![IMG_3956](https://github.com/felipeshiwu/felipeshiwu/assets/20672779/0a6808e7-c945-45e1-bf74-a6e9694afcb1)
