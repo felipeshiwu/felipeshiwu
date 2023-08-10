@@ -2,15 +2,9 @@
 
 Crafting seamless payment processing solutions with a sprinkle of IT sorcery.
 
-## A Glimpse of Me
+## Me
 
-👨‍💻 Curious Computer Scientist  
-🌟 Weaving code wonders in PHP and Elixir  
-🐬 Loving MySQL's embrace, despite its occasional mischiefs
-
-## Present Adventure
-
-🚀 Journeying through the labyrinth of the EBANX payment platform system
+🚀 An amazing Computer Scientist weaving code wonders in PHP and Elixir. The journey now is through the labyrinth of the EBANX payment platform system.
 
 ## Stellar Focus
 
