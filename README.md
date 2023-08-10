@@ -24,7 +24,7 @@ Harmonizing with the timeless wisdom of appropriateness in timing, context, and 
 
 ## Reach Out
 
-🌐 [LinkedIn](https://www.linkedin.com/in/felipeshiwu/) | [VSCO](vsco.co/mydearcoffeeshop)
+🌐 [LinkedIn](https://www.linkedin.com/in/felipeshiwu/) | [VSCO](https://vsco.co/mydearcoffeeshop)
 
 Together, let's conjure excellence in the realm of Dev Platforms! 🖋️🎩
 
