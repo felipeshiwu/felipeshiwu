@@ -18,6 +18,6 @@ Harmonizing with the timeless wisdom of appropriateness in timing, context, and 
 
 [LinkedIn](https://www.linkedin.com/in/felipeshiwu/) | [VSCO](https://vsco.co/mydearcoffeeshop)
 
-Together, let's conjure excellence in the realm of Dev Platform! 🖋️🎩
+Together, let's conjure excellence in the realm of System Reliability!
 
 ![IMG_3956](https://github.com/felipeshiwu/felipeshiwu/assets/20672779/0a6808e7-c945-45e1-bf74-a6e9694afcb1)
